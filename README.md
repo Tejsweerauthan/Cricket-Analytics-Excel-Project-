@@ -94,6 +94,3 @@ The project includes:
 
 ---
 
-## 👤 Author
-**Priyanshu Chhabra**   
-Data Analytics & Visualization Enthusiast
